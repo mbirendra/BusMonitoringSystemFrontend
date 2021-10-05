@@ -22,7 +22,7 @@ function NewArrivalCard() {
                                     <h6>Bus Stop 1</h6>
                                     <img src={Bus1} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus is at station 1</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">View Location</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">View Location</Link>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ function NewArrivalCard() {
                                     <h6>Bus Stop 2</h6>
                                     <img src={Bus2} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus is at station 2</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">View Location</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">View Location</Link>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ function NewArrivalCard() {
                                     <h6>Seat Availability</h6>
                                     <img src={Bus3} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus seat is available</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">View Location</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">View Location</Link>
                                 </div>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ function NewArrivalCard() {
                                     <h6>Sajha Yatayat</h6>
                                     <img src={Bus4} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus seat is available</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">Learn More</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">Learn More</Link>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ function NewArrivalCard() {
                                     <h6>City Bus</h6>
                                     <img src={Bus5} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus seat is available</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">Learn More</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">Learn More</Link>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@ function NewArrivalCard() {
                                     <h6>Mayur Yatayat</h6>
                                     <img src={Bus6} className="w-100 border-bottom" alt="Arrivals"/>
                                     <p>Bus seat is available</p>
-                                    <Link to="/shop" className="btn btn-warning shadow">Learn More</Link>
+                                    <Link to="/map" className="btn btn-warning shadow">Learn More</Link>
                                 </div>
                             </div>
                         </div>
